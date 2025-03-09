@@ -1,6 +1,6 @@
 # Cura_Businesspitch
 
-This is a medical app from which you can buy medicine prescribe to doctors etc
+This is a medical app from which you can buy medicine prescribe by doctors etc
 
 Cura prototype without code - https://drive.google.com/drive/folders/17aFtoUh5-4wJ1VXUVh6nEi-k60xbkF1E?usp=sharing
 
